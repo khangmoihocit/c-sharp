@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "bai8_ham/1.0.0": {
+        "runtime": {
+          "bai8_ham.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bai8_ham/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "bai7_cautruclap/1.0.0": {
+        "runtime": {
+          "bai7_cautruclap.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bai7_cautruclap/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
