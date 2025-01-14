@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Bai25_panel_/1.0.0": {
+        "runtime": {
+          "Bai25_panel_.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bai25_panel_/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -40,6 +40,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai22", "Bai22\Bai22.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTVN_Buoi3", "BTVN_Buoi3\BTVN_Buoi3.csproj", "{57AE3CCD-2EF2-4577-A703-2E2083D81AEB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai25_panel_", "Bai25_panel_\Bai25_panel_.csproj", "{4E0E4B2F-CBED-4EA1-99F9-41E8C33F236A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -110,6 +112,10 @@ Global
 		{57AE3CCD-2EF2-4577-A703-2E2083D81AEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{57AE3CCD-2EF2-4577-A703-2E2083D81AEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{57AE3CCD-2EF2-4577-A703-2E2083D81AEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E0E4B2F-CBED-4EA1-99F9-41E8C33F236A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E0E4B2F-CBED-4EA1-99F9-41E8C33F236A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E0E4B2F-CBED-4EA1-99F9-41E8C33F236A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E0E4B2F-CBED-4EA1-99F9-41E8C33F236A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

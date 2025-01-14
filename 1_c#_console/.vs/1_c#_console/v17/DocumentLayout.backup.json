@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "D:\\C#\\1_c#_console\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8847119C-8D53-45C4-9FFB-D7DF033ED098}|Bai22\\Bai22.csproj|d:\\c#\\1_c#_console\\bai22\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8847119C-8D53-45C4-9FFB-D7DF033ED098}|Bai22\\Bai22.csproj|solutionrelative:bai22\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8847119C-8D53-45C4-9FFB-D7DF033ED098}|Bai22\\Bai22.csproj|d:\\c#\\1_c#_console\\bai22\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8847119C-8D53-45C4-9FFB-D7DF033ED098}|Bai22\\Bai22.csproj|solutionrelative:bai22\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8847119C-8D53-45C4-9FFB-D7DF033ED098}|Bai22\\Bai22.csproj|d:\\c#\\1_c#_console\\bai22\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8847119C-8D53-45C4-9FFB-D7DF033ED098}|Bai22\\Bai22.csproj|solutionrelative:bai22\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E0E4B2F-CBED-4EA1-99F9-41E8C33F236A}|Bai25_panel_\\Bai25_panel_.csproj|d:\\c#\\1_c#_console\\bai25_panel_\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E0E4B2F-CBED-4EA1-99F9-41E8C33F236A}|Bai25_panel_\\Bai25_panel_.csproj|solutionrelative:bai25_panel_\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,39 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\C#\\1_c#_console\\Bai22\\Form1.cs",
-              "RelativeDocumentMoniker": "Bai22\\Form1.cs",
-              "ToolTip": "D:\\C#\\1_c#_console\\Bai22\\Form1.cs [Design]",
-              "RelativeToolTip": "Bai22\\Form1.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\1_c#_console\\Bai25_panel_\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai25_panel_\\Form1.cs",
+              "ToolTip": "D:\\C#\\1_c#_console\\Bai25_panel_\\Form1.cs [Design]",
+              "RelativeToolTip": "Bai25_panel_\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T14:37:25.602Z",
+              "WhenOpened": "2025-01-05T15:12:49.305Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "D:\\C#\\1_c#_console\\Bai22\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "Bai22\\Form1.Designer.cs",
-              "ToolTip": "D:\\C#\\1_c#_console\\Bai22\\Form1.Designer.cs",
-              "RelativeToolTip": "Bai22\\Form1.Designer.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAUwDYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T14:36:24.849Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\C#\\1_c#_console\\Bai22\\Form1.cs",
-              "RelativeDocumentMoniker": "Bai22\\Form1.cs",
-              "ToolTip": "D:\\C#\\1_c#_console\\Bai22\\Form1.cs",
-              "RelativeToolTip": "Bai22\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T14:25:35.885Z",
-              "EditorCaption": ""
             }
           ]
         },

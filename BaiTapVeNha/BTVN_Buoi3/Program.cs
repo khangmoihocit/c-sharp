@@ -32,6 +32,7 @@ internal class Program
                         case 1:
                             //them cong dan
                             addCongDan(connection, inputCongDan());
+                            
                             break;
                         case 2:
                             //hien thi ds cong dan

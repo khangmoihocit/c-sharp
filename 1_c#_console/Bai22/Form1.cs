@@ -14,9 +14,17 @@
                 , "Thoát", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
             if (res == DialogResult.Yes)
             {
-                this.Close();
+                this.Text = "ban chon yes";
+            }else if(res == DialogResult.No){
+                this.Text = "ban chon no";
             }
-            
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("day la noi dung canh bao", "canh bao", MessageBoxButtons.OK
+                , MessageBoxIcon.Error);
         }
     }
 }
