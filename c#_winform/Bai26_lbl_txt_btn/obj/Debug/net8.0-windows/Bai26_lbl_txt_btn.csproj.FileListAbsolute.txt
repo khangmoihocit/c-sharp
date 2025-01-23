@@ -1,0 +1,17 @@
+D:\C#\c#_winform\Bai26_lbl_txt_btn\bin\Debug\net8.0-windows\Bai26_lbl_txt_btn.exe
+D:\C#\c#_winform\Bai26_lbl_txt_btn\bin\Debug\net8.0-windows\Bai26_lbl_txt_btn.deps.json
+D:\C#\c#_winform\Bai26_lbl_txt_btn\bin\Debug\net8.0-windows\Bai26_lbl_txt_btn.runtimeconfig.json
+D:\C#\c#_winform\Bai26_lbl_txt_btn\bin\Debug\net8.0-windows\Bai26_lbl_txt_btn.dll
+D:\C#\c#_winform\Bai26_lbl_txt_btn\bin\Debug\net8.0-windows\Bai26_lbl_txt_btn.pdb
+D:\C#\c#_winform\Bai26_lbl_txt_btn\obj\Debug\net8.0-windows\Bai26_lbl_txt_btn.Form1.resources
+D:\C#\c#_winform\Bai26_lbl_txt_btn\obj\Debug\net8.0-windows\Bai26_lbl_txt_btn.csproj.GenerateResource.cache
+D:\C#\c#_winform\Bai26_lbl_txt_btn\obj\Debug\net8.0-windows\Bai26_lbl_txt_btn.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\c#_winform\Bai26_lbl_txt_btn\obj\Debug\net8.0-windows\Bai26_lbl_txt_btn.AssemblyInfoInputs.cache
+D:\C#\c#_winform\Bai26_lbl_txt_btn\obj\Debug\net8.0-windows\Bai26_lbl_txt_btn.AssemblyInfo.cs
+D:\C#\c#_winform\Bai26_lbl_txt_btn\obj\Debug\net8.0-windows\Bai26_lbl_txt_btn.csproj.CoreCompileInputs.cache
+D:\C#\c#_winform\Bai26_lbl_txt_btn\obj\Debug\net8.0-windows\Bai26_lbl_txt_btn.sourcelink.json
+D:\C#\c#_winform\Bai26_lbl_txt_btn\obj\Debug\net8.0-windows\Bai26_lbl_txt_btn.dll
+D:\C#\c#_winform\Bai26_lbl_txt_btn\obj\Debug\net8.0-windows\refint\Bai26_lbl_txt_btn.dll
+D:\C#\c#_winform\Bai26_lbl_txt_btn\obj\Debug\net8.0-windows\Bai26_lbl_txt_btn.pdb
+D:\C#\c#_winform\Bai26_lbl_txt_btn\obj\Debug\net8.0-windows\Bai26_lbl_txt_btn.genruntimeconfig.cache
+D:\C#\c#_winform\Bai26_lbl_txt_btn\obj\Debug\net8.0-windows\ref\Bai26_lbl_txt_btn.dll

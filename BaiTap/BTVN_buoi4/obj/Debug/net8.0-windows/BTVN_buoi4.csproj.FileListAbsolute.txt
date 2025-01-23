@@ -1,0 +1,17 @@
+D:\C#\BaiTap\BTVN_buoi4\obj\Debug\net8.0-windows\BTVN_buoi4.MDI4Laichau.resources
+D:\C#\BaiTap\BTVN_buoi4\obj\Debug\net8.0-windows\BTVN_buoi4.csproj.GenerateResource.cache
+D:\C#\BaiTap\BTVN_buoi4\obj\Debug\net8.0-windows\BTVN_buoi4.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\BaiTap\BTVN_buoi4\obj\Debug\net8.0-windows\BTVN_buoi4.AssemblyInfoInputs.cache
+D:\C#\BaiTap\BTVN_buoi4\obj\Debug\net8.0-windows\BTVN_buoi4.AssemblyInfo.cs
+D:\C#\BaiTap\BTVN_buoi4\obj\Debug\net8.0-windows\BTVN_buoi4.csproj.CoreCompileInputs.cache
+D:\C#\BaiTap\BTVN_buoi4\obj\Debug\net8.0-windows\BTVN_buoi4.sourcelink.json
+D:\C#\BaiTap\BTVN_buoi4\bin\Debug\net8.0-windows\BTVN_buoi4.exe
+D:\C#\BaiTap\BTVN_buoi4\bin\Debug\net8.0-windows\BTVN_buoi4.deps.json
+D:\C#\BaiTap\BTVN_buoi4\bin\Debug\net8.0-windows\BTVN_buoi4.runtimeconfig.json
+D:\C#\BaiTap\BTVN_buoi4\bin\Debug\net8.0-windows\BTVN_buoi4.dll
+D:\C#\BaiTap\BTVN_buoi4\bin\Debug\net8.0-windows\BTVN_buoi4.pdb
+D:\C#\BaiTap\BTVN_buoi4\obj\Debug\net8.0-windows\BTVN_buoi4.dll
+D:\C#\BaiTap\BTVN_buoi4\obj\Debug\net8.0-windows\refint\BTVN_buoi4.dll
+D:\C#\BaiTap\BTVN_buoi4\obj\Debug\net8.0-windows\BTVN_buoi4.pdb
+D:\C#\BaiTap\BTVN_buoi4\obj\Debug\net8.0-windows\BTVN_buoi4.genruntimeconfig.cache
+D:\C#\BaiTap\BTVN_buoi4\obj\Debug\net8.0-windows\ref\BTVN_buoi4.dll

@@ -1,0 +1,15 @@
+D:\C#\c#_basic\c#_basic\04_delegate\bin\Debug\net8.0\04_delegate.exe
+D:\C#\c#_basic\c#_basic\04_delegate\bin\Debug\net8.0\04_delegate.deps.json
+D:\C#\c#_basic\c#_basic\04_delegate\bin\Debug\net8.0\04_delegate.runtimeconfig.json
+D:\C#\c#_basic\c#_basic\04_delegate\bin\Debug\net8.0\04_delegate.dll
+D:\C#\c#_basic\c#_basic\04_delegate\bin\Debug\net8.0\04_delegate.pdb
+D:\C#\c#_basic\c#_basic\04_delegate\obj\Debug\net8.0\04_delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\c#_basic\c#_basic\04_delegate\obj\Debug\net8.0\04_delegate.AssemblyInfoInputs.cache
+D:\C#\c#_basic\c#_basic\04_delegate\obj\Debug\net8.0\04_delegate.AssemblyInfo.cs
+D:\C#\c#_basic\c#_basic\04_delegate\obj\Debug\net8.0\04_delegate.csproj.CoreCompileInputs.cache
+D:\C#\c#_basic\c#_basic\04_delegate\obj\Debug\net8.0\04_delegate.sourcelink.json
+D:\C#\c#_basic\c#_basic\04_delegate\obj\Debug\net8.0\04_delegate.dll
+D:\C#\c#_basic\c#_basic\04_delegate\obj\Debug\net8.0\refint\04_delegate.dll
+D:\C#\c#_basic\c#_basic\04_delegate\obj\Debug\net8.0\04_delegate.pdb
+D:\C#\c#_basic\c#_basic\04_delegate\obj\Debug\net8.0\04_delegate.genruntimeconfig.cache
+D:\C#\c#_basic\c#_basic\04_delegate\obj\Debug\net8.0\ref\04_delegate.dll
