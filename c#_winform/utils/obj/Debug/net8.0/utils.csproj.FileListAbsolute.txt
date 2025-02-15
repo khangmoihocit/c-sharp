@@ -1,0 +1,15 @@
+D:\C#\c#_winform\utils\bin\Debug\net8.0\utils.exe
+D:\C#\c#_winform\utils\bin\Debug\net8.0\utils.deps.json
+D:\C#\c#_winform\utils\bin\Debug\net8.0\utils.runtimeconfig.json
+D:\C#\c#_winform\utils\bin\Debug\net8.0\utils.dll
+D:\C#\c#_winform\utils\bin\Debug\net8.0\utils.pdb
+D:\C#\c#_winform\utils\obj\Debug\net8.0\utils.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\c#_winform\utils\obj\Debug\net8.0\utils.AssemblyInfoInputs.cache
+D:\C#\c#_winform\utils\obj\Debug\net8.0\utils.AssemblyInfo.cs
+D:\C#\c#_winform\utils\obj\Debug\net8.0\utils.csproj.CoreCompileInputs.cache
+D:\C#\c#_winform\utils\obj\Debug\net8.0\utils.sourcelink.json
+D:\C#\c#_winform\utils\obj\Debug\net8.0\utils.dll
+D:\C#\c#_winform\utils\obj\Debug\net8.0\refint\utils.dll
+D:\C#\c#_winform\utils\obj\Debug\net8.0\utils.pdb
+D:\C#\c#_winform\utils\obj\Debug\net8.0\utils.genruntimeconfig.cache
+D:\C#\c#_winform\utils\obj\Debug\net8.0\ref\utils.dll

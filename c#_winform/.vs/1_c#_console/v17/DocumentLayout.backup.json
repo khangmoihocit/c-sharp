@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "D:\\C#\\c#_winform\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0554470F-3215-4AC0-9149-F7EE2E51DE70}|Bai26_lbl_txt_btn\\Bai26_lbl_txt_btn.csproj|d:\\c#\\c#_winform\\bai26_lbl_txt_btn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0554470F-3215-4AC0-9149-F7EE2E51DE70}|Bai26_lbl_txt_btn\\Bai26_lbl_txt_btn.csproj|solutionrelative:bai26_lbl_txt_btn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{06F28CEA-D3E6-4485-9885-58786E35A800}|Bai3.1\\Bai3.1.csproj|d:\\c#\\c#_winform\\bai3.1\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06F28CEA-D3E6-4485-9885-58786E35A800}|Bai3.1\\Bai3.1.csproj|solutionrelative:bai3.1\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0554470F-3215-4AC0-9149-F7EE2E51DE70}|Bai26_lbl_txt_btn\\Bai26_lbl_txt_btn.csproj|d:\\c#\\c#_winform\\bai26_lbl_txt_btn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0554470F-3215-4AC0-9149-F7EE2E51DE70}|Bai26_lbl_txt_btn\\Bai26_lbl_txt_btn.csproj|solutionrelative:bai26_lbl_txt_btn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{06F28CEA-D3E6-4485-9885-58786E35A800}|Bai3.1\\Bai3.1.csproj|d:\\c#\\c#_winform\\bai3.1\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06F28CEA-D3E6-4485-9885-58786E35A800}|Bai3.1\\Bai3.1.csproj|solutionrelative:bai3.1\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06F28CEA-D3E6-4485-9885-58786E35A800}|Bai3.1\\Bai3.1.csproj|d:\\c#\\c#_winform\\bai3.1\\calculatorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06F28CEA-D3E6-4485-9885-58786E35A800}|Bai3.1\\Bai3.1.csproj|solutionrelative:bai3.1\\calculatorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06F28CEA-D3E6-4485-9885-58786E35A800}|Bai3.1\\Bai3.1.csproj|d:\\c#\\c#_winform\\bai3.1\\calculatorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06F28CEA-D3E6-4485-9885-58786E35A800}|Bai3.1\\Bai3.1.csproj|solutionrelative:bai3.1\\calculatorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06F28CEA-D3E6-4485-9885-58786E35A800}|Bai3.1\\Bai3.1.csproj|d:\\c#\\c#_winform\\bai3.1\\calculatorform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06F28CEA-D3E6-4485-9885-58786E35A800}|Bai3.1\\Bai3.1.csproj|solutionrelative:bai3.1\\calculatorform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,29 +37,71 @@
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\C#\\c#_winform\\Bai26_lbl_txt_btn\\Form1.cs",
-              "RelativeDocumentMoniker": "Bai26_lbl_txt_btn\\Form1.cs",
-              "ToolTip": "D:\\C#\\c#_winform\\Bai26_lbl_txt_btn\\Form1.cs*",
-              "RelativeToolTip": "Bai26_lbl_txt_btn\\Form1.cs*",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T06:28:54.632Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\C#\\c#_winform\\Bai26_lbl_txt_btn\\Form1.cs",
-              "RelativeDocumentMoniker": "Bai26_lbl_txt_btn\\Form1.cs",
-              "ToolTip": "D:\\C#\\c#_winform\\Bai26_lbl_txt_btn\\Form1.cs [Design]*",
-              "RelativeToolTip": "Bai26_lbl_txt_btn\\Form1.cs [Design]*",
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "D:\\C#\\c#_winform\\Bai3.1\\FormMain.cs",
+              "RelativeDocumentMoniker": "Bai3.1\\FormMain.cs",
+              "ToolTip": "D:\\C#\\c#_winform\\Bai3.1\\FormMain.cs",
+              "RelativeToolTip": "Bai3.1\\FormMain.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAvwB8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T06:28:17.838Z",
+              "WhenOpened": "2025-02-12T11:47:02.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\c#_winform\\Bai3.1\\FormMain.cs",
+              "RelativeDocumentMoniker": "Bai3.1\\FormMain.cs",
+              "ToolTip": "D:\\C#\\c#_winform\\Bai3.1\\FormMain.cs [Design]",
+              "RelativeToolTip": "Bai3.1\\FormMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T11:41:41.736Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculatorForm.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\c#_winform\\Bai3.1\\CalculatorForm.cs",
+              "RelativeDocumentMoniker": "Bai3.1\\CalculatorForm.cs",
+              "ToolTip": "D:\\C#\\c#_winform\\Bai3.1\\CalculatorForm.cs [Design]",
+              "RelativeToolTip": "Bai3.1\\CalculatorForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T11:24:38.398Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CalculatorForm.Designer.cs",
+              "DocumentMoniker": "D:\\C#\\c#_winform\\Bai3.1\\CalculatorForm.Designer.cs",
+              "RelativeDocumentMoniker": "Bai3.1\\CalculatorForm.Designer.cs",
+              "ToolTip": "D:\\C#\\c#_winform\\Bai3.1\\CalculatorForm.Designer.cs",
+              "RelativeToolTip": "Bai3.1\\CalculatorForm.Designer.cs",
+              "ViewState": "AgIAANkAAAAAAAAAAAASwOAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T11:17:19.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalculatorForm.cs",
+              "DocumentMoniker": "D:\\C#\\c#_winform\\Bai3.1\\CalculatorForm.cs",
+              "RelativeDocumentMoniker": "Bai3.1\\CalculatorForm.cs",
+              "ToolTip": "D:\\C#\\c#_winform\\Bai3.1\\CalculatorForm.cs",
+              "RelativeToolTip": "Bai3.1\\CalculatorForm.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAkwDYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T10:21:54.043Z",
+              "EditorCaption": ""
             }
           ]
         }

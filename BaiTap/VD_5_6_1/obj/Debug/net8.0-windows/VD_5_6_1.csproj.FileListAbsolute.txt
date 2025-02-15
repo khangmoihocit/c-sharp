@@ -1,0 +1,17 @@
+D:\C#\BaiTap\VD_5_6_1\bin\Debug\net8.0-windows\VD_5_6_1.exe
+D:\C#\BaiTap\VD_5_6_1\bin\Debug\net8.0-windows\VD_5_6_1.deps.json
+D:\C#\BaiTap\VD_5_6_1\bin\Debug\net8.0-windows\VD_5_6_1.runtimeconfig.json
+D:\C#\BaiTap\VD_5_6_1\bin\Debug\net8.0-windows\VD_5_6_1.dll
+D:\C#\BaiTap\VD_5_6_1\bin\Debug\net8.0-windows\VD_5_6_1.pdb
+D:\C#\BaiTap\VD_5_6_1\obj\Debug\net8.0-windows\VD_5_6_1.Form1.resources
+D:\C#\BaiTap\VD_5_6_1\obj\Debug\net8.0-windows\VD_5_6_1.csproj.GenerateResource.cache
+D:\C#\BaiTap\VD_5_6_1\obj\Debug\net8.0-windows\VD_5_6_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\BaiTap\VD_5_6_1\obj\Debug\net8.0-windows\VD_5_6_1.AssemblyInfoInputs.cache
+D:\C#\BaiTap\VD_5_6_1\obj\Debug\net8.0-windows\VD_5_6_1.AssemblyInfo.cs
+D:\C#\BaiTap\VD_5_6_1\obj\Debug\net8.0-windows\VD_5_6_1.csproj.CoreCompileInputs.cache
+D:\C#\BaiTap\VD_5_6_1\obj\Debug\net8.0-windows\VD_5_6_1.sourcelink.json
+D:\C#\BaiTap\VD_5_6_1\obj\Debug\net8.0-windows\VD_5_6_1.dll
+D:\C#\BaiTap\VD_5_6_1\obj\Debug\net8.0-windows\refint\VD_5_6_1.dll
+D:\C#\BaiTap\VD_5_6_1\obj\Debug\net8.0-windows\VD_5_6_1.pdb
+D:\C#\BaiTap\VD_5_6_1\obj\Debug\net8.0-windows\VD_5_6_1.genruntimeconfig.cache
+D:\C#\BaiTap\VD_5_6_1\obj\Debug\net8.0-windows\ref\VD_5_6_1.dll

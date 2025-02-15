@@ -1,0 +1,17 @@
+D:\C#\c#_winform\Bai27_checkbox_rad\bin\Debug\net8.0-windows\Bai27_checkbox_rad.exe
+D:\C#\c#_winform\Bai27_checkbox_rad\bin\Debug\net8.0-windows\Bai27_checkbox_rad.deps.json
+D:\C#\c#_winform\Bai27_checkbox_rad\bin\Debug\net8.0-windows\Bai27_checkbox_rad.runtimeconfig.json
+D:\C#\c#_winform\Bai27_checkbox_rad\bin\Debug\net8.0-windows\Bai27_checkbox_rad.dll
+D:\C#\c#_winform\Bai27_checkbox_rad\bin\Debug\net8.0-windows\Bai27_checkbox_rad.pdb
+D:\C#\c#_winform\Bai27_checkbox_rad\obj\Debug\net8.0-windows\Bai27_checkbox_rad.csproj.GenerateResource.cache
+D:\C#\c#_winform\Bai27_checkbox_rad\obj\Debug\net8.0-windows\Bai27_checkbox_rad.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\c#_winform\Bai27_checkbox_rad\obj\Debug\net8.0-windows\Bai27_checkbox_rad.AssemblyInfoInputs.cache
+D:\C#\c#_winform\Bai27_checkbox_rad\obj\Debug\net8.0-windows\Bai27_checkbox_rad.AssemblyInfo.cs
+D:\C#\c#_winform\Bai27_checkbox_rad\obj\Debug\net8.0-windows\Bai27_checkbox_rad.csproj.CoreCompileInputs.cache
+D:\C#\c#_winform\Bai27_checkbox_rad\obj\Debug\net8.0-windows\Bai27_checkbox_rad.sourcelink.json
+D:\C#\c#_winform\Bai27_checkbox_rad\obj\Debug\net8.0-windows\Bai27_checkbox_rad.dll
+D:\C#\c#_winform\Bai27_checkbox_rad\obj\Debug\net8.0-windows\refint\Bai27_checkbox_rad.dll
+D:\C#\c#_winform\Bai27_checkbox_rad\obj\Debug\net8.0-windows\Bai27_checkbox_rad.pdb
+D:\C#\c#_winform\Bai27_checkbox_rad\obj\Debug\net8.0-windows\Bai27_checkbox_rad.genruntimeconfig.cache
+D:\C#\c#_winform\Bai27_checkbox_rad\obj\Debug\net8.0-windows\ref\Bai27_checkbox_rad.dll
+D:\C#\c#_winform\Bai27_checkbox_rad\obj\Debug\net8.0-windows\Bai27_checkbox_rad.FormMain.resources

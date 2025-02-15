@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "D:\\C#\\c#_winform\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0554470F-3215-4AC0-9149-F7EE2E51DE70}|Bai26_lbl_txt_btn\\Bai26_lbl_txt_btn.csproj|d:\\c#\\c#_winform\\bai26_lbl_txt_btn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0554470F-3215-4AC0-9149-F7EE2E51DE70}|Bai26_lbl_txt_btn\\Bai26_lbl_txt_btn.csproj|solutionrelative:bai26_lbl_txt_btn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{604EB593-F8B5-45F9-B82D-B918904A42ED}|Bai28_PictureBox\\Bai28_PictureBox.csproj|d:\\c#\\c#_winform\\bai28_picturebox\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{604EB593-F8B5-45F9-B82D-B918904A42ED}|Bai28_PictureBox\\Bai28_PictureBox.csproj|solutionrelative:bai28_picturebox\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0554470F-3215-4AC0-9149-F7EE2E51DE70}|Bai26_lbl_txt_btn\\Bai26_lbl_txt_btn.csproj|d:\\c#\\c#_winform\\bai26_lbl_txt_btn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0554470F-3215-4AC0-9149-F7EE2E51DE70}|Bai26_lbl_txt_btn\\Bai26_lbl_txt_btn.csproj|solutionrelative:bai26_lbl_txt_btn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{921430F5-E1E0-4189-A025-66503DFA6357}|Bai27_checkbox_rad\\Bai27_checkbox_rad.csproj|d:\\c#\\c#_winform\\bai27_checkbox_rad\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{921430F5-E1E0-4189-A025-66503DFA6357}|Bai27_checkbox_rad\\Bai27_checkbox_rad.csproj|solutionrelative:bai27_checkbox_rad\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{921430F5-E1E0-4189-A025-66503DFA6357}|Bai27_checkbox_rad\\Bai27_checkbox_rad.csproj|d:\\c#\\c#_winform\\bai27_checkbox_rad\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{921430F5-E1E0-4189-A025-66503DFA6357}|Bai27_checkbox_rad\\Bai27_checkbox_rad.csproj|solutionrelative:bai27_checkbox_rad\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06F28CEA-D3E6-4485-9885-58786E35A800}|Bai3.1\\Bai3.1.csproj|d:\\c#\\c#_winform\\bai3.1\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06F28CEA-D3E6-4485-9885-58786E35A800}|Bai3.1\\Bai3.1.csproj|solutionrelative:bai3.1\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06F28CEA-D3E6-4485-9885-58786E35A800}|Bai3.1\\Bai3.1.csproj|D:\\C#\\c#_winform\\bai3.1\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06F28CEA-D3E6-4485-9885-58786E35A800}|Bai3.1\\Bai3.1.csproj|solutionrelative:bai3.1\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,28 +37,69 @@
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\C#\\c#_winform\\Bai26_lbl_txt_btn\\Form1.cs",
-              "RelativeDocumentMoniker": "Bai26_lbl_txt_btn\\Form1.cs",
-              "ToolTip": "D:\\C#\\c#_winform\\Bai26_lbl_txt_btn\\Form1.cs",
-              "RelativeToolTip": "Bai26_lbl_txt_btn\\Form1.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T06:28:54.632Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\C#\\c#_winform\\Bai26_lbl_txt_btn\\Form1.cs",
-              "RelativeDocumentMoniker": "Bai26_lbl_txt_btn\\Form1.cs",
-              "ToolTip": "D:\\C#\\c#_winform\\Bai26_lbl_txt_btn\\Form1.cs [Design]",
-              "RelativeToolTip": "Bai26_lbl_txt_btn\\Form1.cs [Design]",
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\c#_winform\\Bai28_PictureBox\\FormMain.cs",
+              "RelativeDocumentMoniker": "Bai28_PictureBox\\FormMain.cs",
+              "ToolTip": "D:\\C#\\c#_winform\\Bai28_PictureBox\\FormMain.cs [Design]",
+              "RelativeToolTip": "Bai28_PictureBox\\FormMain.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T06:28:17.838Z",
+              "WhenOpened": "2025-02-14T01:15:27.363Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "D:\\C#\\c#_winform\\Bai27_checkbox_rad\\FormMain.cs",
+              "RelativeDocumentMoniker": "Bai27_checkbox_rad\\FormMain.cs",
+              "ToolTip": "D:\\C#\\c#_winform\\Bai27_checkbox_rad\\FormMain.cs",
+              "RelativeToolTip": "Bai27_checkbox_rad\\FormMain.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAArwGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T01:14:49.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\c#_winform\\Bai27_checkbox_rad\\FormMain.cs",
+              "RelativeDocumentMoniker": "Bai27_checkbox_rad\\FormMain.cs",
+              "ToolTip": "D:\\C#\\c#_winform\\Bai27_checkbox_rad\\FormMain.cs [Design]",
+              "RelativeToolTip": "Bai27_checkbox_rad\\FormMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T01:14:41.291Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "D:\\C#\\c#_winform\\Bai3.1\\FormMain.cs",
+              "RelativeDocumentMoniker": "Bai3.1\\FormMain.cs",
+              "ToolTip": "D:\\C#\\c#_winform\\Bai3.1\\FormMain.cs",
+              "RelativeToolTip": "Bai3.1\\FormMain.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAvwB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T11:47:02.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\c#_winform\\Bai3.1\\FormMain.cs",
+              "RelativeDocumentMoniker": "Bai3.1\\FormMain.cs",
+              "ToolTip": "D:\\C#\\c#_winform\\Bai3.1\\FormMain.cs [Design]",
+              "RelativeToolTip": "Bai3.1\\FormMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T11:41:41.736Z",
               "EditorCaption": " [Design]"
             }
           ]
