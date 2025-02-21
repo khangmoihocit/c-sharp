@@ -25,7 +25,7 @@ internal class Program
         double a = (double)1 / 2; //hoac double a = 1.0/2
         Console.WriteLine("{0} / {1} = {2}", 1, 2, a);
 
-
+        
 
         //
         var t = 5;
@@ -34,6 +34,7 @@ internal class Program
 
         //khai bao hang so
         const double PI = 3.14;
+
         
     }
 }

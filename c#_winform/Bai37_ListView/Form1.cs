@@ -62,7 +62,7 @@ namespace Bai37_ListView
 
         private void btnCapNhat_Click(object sender, EventArgs e)
         {
-            if(lvSanPham.SelectedItems.Count > 0)
+            if (lvSanPham.SelectedItems.Count > 0)
             {
                 ListViewItem lvt = lvSanPham.SelectedItems[0];
                 lvt.SubItems[0].Text = txtMaSP.Text;
@@ -70,6 +70,11 @@ namespace Bai37_ListView
                 lvt.SubItems[2].Text = txtGiaSP.Text;
 
             }
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "D:\\C#\\BaiTap\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1CBE9158-B490-450F-8948-BBDE94F8B0C0}|VD_dataBinding\\VD_dataBinding.csproj|d:\\c#\\baitap\\vd_databinding\\formnhapkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CBE9158-B490-450F-8948-BBDE94F8B0C0}|VD_dataBinding\\VD_dataBinding.csproj|solutionrelative:vd_databinding\\formnhapkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E0E92F63-1008-4CB3-BBE0-538AB93C823B}|Bai4.4\\Bai4.4.csproj|d:\\c#\\baitap\\bai4.4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E92F63-1008-4CB3-BBE0-538AB93C823B}|Bai4.4\\Bai4.4.csproj|solutionrelative:bai4.4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CBE9158-B490-450F-8948-BBDE94F8B0C0}|VD_dataBinding\\VD_dataBinding.csproj|d:\\c#\\baitap\\vd_databinding\\formdanhsachkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CBE9158-B490-450F-8948-BBDE94F8B0C0}|VD_dataBinding\\VD_dataBinding.csproj|solutionrelative:vd_databinding\\formdanhsachkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E0E92F63-1008-4CB3-BBE0-538AB93C823B}|Bai4.4\\Bai4.4.csproj|D:\\C#\\BaiTap\\bai4.4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E0E92F63-1008-4CB3-BBE0-538AB93C823B}|Bai4.4\\Bai4.4.csproj|solutionrelative:bai4.4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CBE9158-B490-450F-8948-BBDE94F8B0C0}|VD_dataBinding\\VD_dataBinding.csproj|d:\\c#\\baitap\\vd_databinding\\formdanhsachkhachhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CBE9158-B490-450F-8948-BBDE94F8B0C0}|VD_dataBinding\\VD_dataBinding.csproj|solutionrelative:vd_databinding\\formdanhsachkhachhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E0E92F63-1008-4CB3-BBE0-538AB93C823B}|Bai4.4\\Bai4.4.csproj|d:\\c#\\baitap\\bai4.4\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E92F63-1008-4CB3-BBE0-538AB93C823B}|Bai4.4\\Bai4.4.csproj|solutionrelative:bai4.4\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CBE9158-B490-450F-8948-BBDE94F8B0C0}|VD_dataBinding\\VD_dataBinding.csproj|d:\\c#\\baitap\\vd_databinding\\formnhapkhachhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CBE9158-B490-450F-8948-BBDE94F8B0C0}|VD_dataBinding\\VD_dataBinding.csproj|solutionrelative:vd_databinding\\formnhapkhachhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E0E92F63-1008-4CB3-BBE0-538AB93C823B}|Bai4.4\\Bai4.4.csproj|d:\\c#\\baitap\\bai4.4\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E92F63-1008-4CB3-BBE0-538AB93C823B}|Bai4.4\\Bai4.4.csproj|solutionrelative:bai4.4\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CBE9158-B490-450F-8948-BBDE94F8B0C0}|VD_dataBinding\\VD_dataBinding.csproj|D:\\C#\\BaiTap\\vd_databinding\\formdanhsachkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1CBE9158-B490-450F-8948-BBDE94F8B0C0}|VD_dataBinding\\VD_dataBinding.csproj|solutionrelative:vd_databinding\\formdanhsachkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CBE9158-B490-450F-8948-BBDE94F8B0C0}|VD_dataBinding\\VD_dataBinding.csproj|D:\\C#\\BaiTap\\vd_databinding\\formnhapkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1CBE9158-B490-450F-8948-BBDE94F8B0C0}|VD_dataBinding\\VD_dataBinding.csproj|solutionrelative:vd_databinding\\formnhapkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{E0E92F63-1008-4CB3-BBE0-538AB93C823B}|Bai4.4\\Bai4.4.csproj|d:\\c#\\baitap\\bai4.4\\modify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E92F63-1008-4CB3-BBE0-538AB93C823B}|Bai4.4\\Bai4.4.csproj|solutionrelative:bai4.4\\modify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,78 +42,66 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FormNhapKhachHang.Designer.cs",
-              "DocumentMoniker": "D:\\C#\\BaiTap\\VD_dataBinding\\FormNhapKhachHang.Designer.cs",
-              "RelativeDocumentMoniker": "VD_dataBinding\\FormNhapKhachHang.Designer.cs",
-              "ToolTip": "D:\\C#\\BaiTap\\VD_dataBinding\\FormNhapKhachHang.Designer.cs",
-              "RelativeToolTip": "VD_dataBinding\\FormNhapKhachHang.Designer.cs",
-              "ViewState": "AgIAAK0AAAAAAAAAAAAcwL0AAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T07:34:10.262Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "FormDanhSachKhachHang.Designer.cs",
-              "DocumentMoniker": "D:\\C#\\BaiTap\\VD_dataBinding\\FormDanhSachKhachHang.Designer.cs",
-              "RelativeDocumentMoniker": "VD_dataBinding\\FormDanhSachKhachHang.Designer.cs",
-              "ToolTip": "D:\\C#\\BaiTap\\VD_dataBinding\\FormDanhSachKhachHang.Designer.cs",
-              "RelativeToolTip": "VD_dataBinding\\FormDanhSachKhachHang.Designer.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAA2wCwAAAAPAAAAAAAAAA==",
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "D:\\C#\\BaiTap\\Bai4.4\\KhachHang.cs",
+              "RelativeDocumentMoniker": "Bai4.4\\KhachHang.cs",
+              "ToolTip": "D:\\C#\\BaiTap\\Bai4.4\\KhachHang.cs",
+              "RelativeToolTip": "Bai4.4\\KhachHang.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA3wCsAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T07:33:08.621Z",
+              "WhenOpened": "2025-02-20T07:06:46.561Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FormDanhSachKhachHang.cs",
-              "DocumentMoniker": "D:\\C#\\BaiTap\\VD_dataBinding\\FormDanhSachKhachHang.cs",
-              "RelativeDocumentMoniker": "VD_dataBinding\\FormDanhSachKhachHang.cs",
-              "ToolTip": "D:\\C#\\BaiTap\\VD_dataBinding\\FormDanhSachKhachHang.cs",
-              "RelativeToolTip": "VD_dataBinding\\FormDanhSachKhachHang.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "D:\\C#\\BaiTap\\Bai4.4\\Connection.cs",
+              "RelativeDocumentMoniker": "Bai4.4\\Connection.cs",
+              "ToolTip": "D:\\C#\\BaiTap\\Bai4.4\\Connection.cs",
+              "RelativeToolTip": "Bai4.4\\Connection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T06:01:14.556Z",
+              "WhenOpened": "2025-02-20T07:11:55.999Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FormNhapKhachHang.cs",
-              "DocumentMoniker": "D:\\C#\\BaiTap\\VD_dataBinding\\FormNhapKhachHang.cs",
-              "RelativeDocumentMoniker": "VD_dataBinding\\FormNhapKhachHang.cs",
-              "ToolTip": "D:\\C#\\BaiTap\\VD_dataBinding\\FormNhapKhachHang.cs",
-              "RelativeToolTip": "VD_dataBinding\\FormNhapKhachHang.cs",
-              "ViewState": "AgIAAHUAAAAAAAAAAAAswDsAAAANAAAAAAAAAA==",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\C#\\BaiTap\\Bai4.4\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai4.4\\Form1.cs",
+              "ToolTip": "D:\\C#\\BaiTap\\Bai4.4\\Form1.cs",
+              "RelativeToolTip": "Bai4.4\\Form1.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAIA2wCYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T05:48:52.528Z",
+              "WhenOpened": "2025-02-20T07:47:54.634Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "FormDanhSachKhachHang.cs [Design]",
-              "DocumentMoniker": "D:\\C#\\BaiTap\\VD_dataBinding\\FormDanhSachKhachHang.cs",
-              "RelativeDocumentMoniker": "VD_dataBinding\\FormDanhSachKhachHang.cs",
-              "ToolTip": "D:\\C#\\BaiTap\\VD_dataBinding\\FormDanhSachKhachHang.cs [Design]",
-              "RelativeToolTip": "VD_dataBinding\\FormDanhSachKhachHang.cs [Design]",
+              "Title": "Modify.cs",
+              "DocumentMoniker": "D:\\C#\\BaiTap\\Bai4.4\\Modify.cs",
+              "RelativeDocumentMoniker": "Bai4.4\\Modify.cs",
+              "ToolTip": "D:\\C#\\BaiTap\\Bai4.4\\Modify.cs",
+              "RelativeToolTip": "Bai4.4\\Modify.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAIA2wDwAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T05:58:37.955Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-02-20T07:01:45.624Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FormNhapKhachHang.cs [Design]",
-              "DocumentMoniker": "D:\\C#\\BaiTap\\VD_dataBinding\\FormNhapKhachHang.cs",
-              "RelativeDocumentMoniker": "VD_dataBinding\\FormNhapKhachHang.cs",
-              "ToolTip": "D:\\C#\\BaiTap\\VD_dataBinding\\FormNhapKhachHang.cs [Design]",
-              "RelativeToolTip": "VD_dataBinding\\FormNhapKhachHang.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\BaiTap\\Bai4.4\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai4.4\\Form1.cs",
+              "ToolTip": "D:\\C#\\BaiTap\\Bai4.4\\Form1.cs [Design]",
+              "RelativeToolTip": "Bai4.4\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T05:48:06.278Z",
+              "WhenOpened": "2025-02-20T06:48:44.066Z",
               "EditorCaption": " [Design]"
             }
           ]

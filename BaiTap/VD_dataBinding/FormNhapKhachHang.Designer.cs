@@ -197,7 +197,7 @@
             // 
             AutoScaleDimensions = new SizeF(9F, 23F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(697, 437);
+            ClientSize = new Size(697, 412);
             Controls.Add(groupBox1);
             Controls.Add(dtpNgaySinh);
             Controls.Add(txtDiaChi);

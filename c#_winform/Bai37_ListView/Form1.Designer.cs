@@ -28,8 +28,8 @@
         /// </summary>
         private void InitializeComponent()
         {
-            ListViewItem listViewItem3 = new ListViewItem(new string[] { "sp1", "cocacola", "10000" }, -1);
-            ListViewItem listViewItem4 = new ListViewItem(new string[] { "sp2", "pesi", "80000" }, -1);
+            ListViewItem listViewItem1 = new ListViewItem(new string[] { "sp1", "cocacola", "10000" }, -1);
+            ListViewItem listViewItem2 = new ListViewItem(new string[] { "sp2", "pesi", "80000" }, -1);
             lvSanPham = new ListView();
             columnHeader1 = new ColumnHeader();
             columnHeader2 = new ColumnHeader();
@@ -50,7 +50,7 @@
             lvSanPham.Columns.AddRange(new ColumnHeader[] { columnHeader1, columnHeader2, columnHeader3 });
             lvSanPham.FullRowSelect = true;
             lvSanPham.GridLines = true;
-            lvSanPham.Items.AddRange(new ListViewItem[] { listViewItem3, listViewItem4 });
+            lvSanPham.Items.AddRange(new ListViewItem[] { listViewItem1, listViewItem2 });
             lvSanPham.Location = new Point(14, 336);
             lvSanPham.Margin = new Padding(4);
             lvSanPham.Name = "lvSanPham";
@@ -182,6 +182,7 @@
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Form1";
+            Load += Form1_Load;
             ResumeLayout(false);
             PerformLayout();
         }
