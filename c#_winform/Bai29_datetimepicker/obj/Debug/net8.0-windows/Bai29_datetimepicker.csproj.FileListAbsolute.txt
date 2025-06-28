@@ -1,0 +1,17 @@
+D:\C#\c#_winform\Bai29_datetimepicker\bin\Debug\net8.0-windows\Bai29_datetimepicker.exe
+D:\C#\c#_winform\Bai29_datetimepicker\bin\Debug\net8.0-windows\Bai29_datetimepicker.deps.json
+D:\C#\c#_winform\Bai29_datetimepicker\bin\Debug\net8.0-windows\Bai29_datetimepicker.runtimeconfig.json
+D:\C#\c#_winform\Bai29_datetimepicker\bin\Debug\net8.0-windows\Bai29_datetimepicker.dll
+D:\C#\c#_winform\Bai29_datetimepicker\bin\Debug\net8.0-windows\Bai29_datetimepicker.pdb
+D:\C#\c#_winform\Bai29_datetimepicker\obj\Debug\net8.0-windows\Bai29_datetimepicker.Form1.resources
+D:\C#\c#_winform\Bai29_datetimepicker\obj\Debug\net8.0-windows\Bai29_datetimepicker.csproj.GenerateResource.cache
+D:\C#\c#_winform\Bai29_datetimepicker\obj\Debug\net8.0-windows\Bai29_datetimepicker.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\c#_winform\Bai29_datetimepicker\obj\Debug\net8.0-windows\Bai29_datetimepicker.AssemblyInfoInputs.cache
+D:\C#\c#_winform\Bai29_datetimepicker\obj\Debug\net8.0-windows\Bai29_datetimepicker.AssemblyInfo.cs
+D:\C#\c#_winform\Bai29_datetimepicker\obj\Debug\net8.0-windows\Bai29_datetimepicker.csproj.CoreCompileInputs.cache
+D:\C#\c#_winform\Bai29_datetimepicker\obj\Debug\net8.0-windows\Bai29_datetimepicker.sourcelink.json
+D:\C#\c#_winform\Bai29_datetimepicker\obj\Debug\net8.0-windows\Bai29_datetimepicker.dll
+D:\C#\c#_winform\Bai29_datetimepicker\obj\Debug\net8.0-windows\refint\Bai29_datetimepicker.dll
+D:\C#\c#_winform\Bai29_datetimepicker\obj\Debug\net8.0-windows\Bai29_datetimepicker.pdb
+D:\C#\c#_winform\Bai29_datetimepicker\obj\Debug\net8.0-windows\Bai29_datetimepicker.genruntimeconfig.cache
+D:\C#\c#_winform\Bai29_datetimepicker\obj\Debug\net8.0-windows\ref\Bai29_datetimepicker.dll

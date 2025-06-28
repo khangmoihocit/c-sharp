@@ -1,0 +1,15 @@
+D:\C#\c#_basic\c#_basic\05_lambda\bin\Debug\net8.0\05_lambda.exe
+D:\C#\c#_basic\c#_basic\05_lambda\bin\Debug\net8.0\05_lambda.deps.json
+D:\C#\c#_basic\c#_basic\05_lambda\bin\Debug\net8.0\05_lambda.runtimeconfig.json
+D:\C#\c#_basic\c#_basic\05_lambda\bin\Debug\net8.0\05_lambda.dll
+D:\C#\c#_basic\c#_basic\05_lambda\bin\Debug\net8.0\05_lambda.pdb
+D:\C#\c#_basic\c#_basic\05_lambda\obj\Debug\net8.0\05_lambda.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\c#_basic\c#_basic\05_lambda\obj\Debug\net8.0\05_lambda.AssemblyInfoInputs.cache
+D:\C#\c#_basic\c#_basic\05_lambda\obj\Debug\net8.0\05_lambda.AssemblyInfo.cs
+D:\C#\c#_basic\c#_basic\05_lambda\obj\Debug\net8.0\05_lambda.csproj.CoreCompileInputs.cache
+D:\C#\c#_basic\c#_basic\05_lambda\obj\Debug\net8.0\05_lambda.sourcelink.json
+D:\C#\c#_basic\c#_basic\05_lambda\obj\Debug\net8.0\05_lambda.dll
+D:\C#\c#_basic\c#_basic\05_lambda\obj\Debug\net8.0\refint\05_lambda.dll
+D:\C#\c#_basic\c#_basic\05_lambda\obj\Debug\net8.0\05_lambda.pdb
+D:\C#\c#_basic\c#_basic\05_lambda\obj\Debug\net8.0\05_lambda.genruntimeconfig.cache
+D:\C#\c#_basic\c#_basic\05_lambda\obj\Debug\net8.0\ref\05_lambda.dll

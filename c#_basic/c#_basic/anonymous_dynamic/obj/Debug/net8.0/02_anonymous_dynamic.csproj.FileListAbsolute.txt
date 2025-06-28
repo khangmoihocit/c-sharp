@@ -1,0 +1,15 @@
+D:\C#\c#_basic\c#_basic\anonymous_dynamic\bin\Debug\net8.0\02_anonymous_dynamic.exe
+D:\C#\c#_basic\c#_basic\anonymous_dynamic\bin\Debug\net8.0\02_anonymous_dynamic.deps.json
+D:\C#\c#_basic\c#_basic\anonymous_dynamic\bin\Debug\net8.0\02_anonymous_dynamic.runtimeconfig.json
+D:\C#\c#_basic\c#_basic\anonymous_dynamic\bin\Debug\net8.0\02_anonymous_dynamic.dll
+D:\C#\c#_basic\c#_basic\anonymous_dynamic\bin\Debug\net8.0\02_anonymous_dynamic.pdb
+D:\C#\c#_basic\c#_basic\anonymous_dynamic\obj\Debug\net8.0\02_anonymous_dynamic.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\c#_basic\c#_basic\anonymous_dynamic\obj\Debug\net8.0\02_anonymous_dynamic.AssemblyInfoInputs.cache
+D:\C#\c#_basic\c#_basic\anonymous_dynamic\obj\Debug\net8.0\02_anonymous_dynamic.AssemblyInfo.cs
+D:\C#\c#_basic\c#_basic\anonymous_dynamic\obj\Debug\net8.0\02_anonymous_dynamic.csproj.CoreCompileInputs.cache
+D:\C#\c#_basic\c#_basic\anonymous_dynamic\obj\Debug\net8.0\02_anonymous_dynamic.sourcelink.json
+D:\C#\c#_basic\c#_basic\anonymous_dynamic\obj\Debug\net8.0\02_anonymous_dynamic.dll
+D:\C#\c#_basic\c#_basic\anonymous_dynamic\obj\Debug\net8.0\refint\02_anonymous_dynamic.dll
+D:\C#\c#_basic\c#_basic\anonymous_dynamic\obj\Debug\net8.0\02_anonymous_dynamic.pdb
+D:\C#\c#_basic\c#_basic\anonymous_dynamic\obj\Debug\net8.0\02_anonymous_dynamic.genruntimeconfig.cache
+D:\C#\c#_basic\c#_basic\anonymous_dynamic\obj\Debug\net8.0\ref\02_anonymous_dynamic.dll

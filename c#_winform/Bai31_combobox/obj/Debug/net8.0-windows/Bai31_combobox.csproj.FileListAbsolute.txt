@@ -1,0 +1,17 @@
+D:\C#\c#_winform\Bai31_combobox\bin\Debug\net8.0-windows\Bai31_combobox.exe
+D:\C#\c#_winform\Bai31_combobox\bin\Debug\net8.0-windows\Bai31_combobox.deps.json
+D:\C#\c#_winform\Bai31_combobox\bin\Debug\net8.0-windows\Bai31_combobox.runtimeconfig.json
+D:\C#\c#_winform\Bai31_combobox\bin\Debug\net8.0-windows\Bai31_combobox.dll
+D:\C#\c#_winform\Bai31_combobox\bin\Debug\net8.0-windows\Bai31_combobox.pdb
+D:\C#\c#_winform\Bai31_combobox\obj\Debug\net8.0-windows\Bai31_combobox.Form1.resources
+D:\C#\c#_winform\Bai31_combobox\obj\Debug\net8.0-windows\Bai31_combobox.csproj.GenerateResource.cache
+D:\C#\c#_winform\Bai31_combobox\obj\Debug\net8.0-windows\Bai31_combobox.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\c#_winform\Bai31_combobox\obj\Debug\net8.0-windows\Bai31_combobox.AssemblyInfoInputs.cache
+D:\C#\c#_winform\Bai31_combobox\obj\Debug\net8.0-windows\Bai31_combobox.AssemblyInfo.cs
+D:\C#\c#_winform\Bai31_combobox\obj\Debug\net8.0-windows\Bai31_combobox.csproj.CoreCompileInputs.cache
+D:\C#\c#_winform\Bai31_combobox\obj\Debug\net8.0-windows\Bai31_combobox.sourcelink.json
+D:\C#\c#_winform\Bai31_combobox\obj\Debug\net8.0-windows\Bai31_combobox.dll
+D:\C#\c#_winform\Bai31_combobox\obj\Debug\net8.0-windows\refint\Bai31_combobox.dll
+D:\C#\c#_winform\Bai31_combobox\obj\Debug\net8.0-windows\Bai31_combobox.pdb
+D:\C#\c#_winform\Bai31_combobox\obj\Debug\net8.0-windows\Bai31_combobox.genruntimeconfig.cache
+D:\C#\c#_winform\Bai31_combobox\obj\Debug\net8.0-windows\ref\Bai31_combobox.dll

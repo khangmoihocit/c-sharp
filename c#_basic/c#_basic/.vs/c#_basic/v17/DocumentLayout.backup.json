@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\c#_basic\\c#_basic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69D51ADF-4253-4DCB-A0C2-68CDD06E06F8}|05_lambda\\05_lambda.csproj|d:\\c#\\c#_basic\\c#_basic\\05_lambda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D51ADF-4253-4DCB-A0C2-68CDD06E06F8}|05_lambda\\05_lambda.csproj|solutionrelative:05_lambda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 168,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\c#_basic\\c#_basic\\05_lambda\\Program.cs",
+              "RelativeDocumentMoniker": "05_lambda\\Program.cs",
+              "ToolTip": "D:\\C#\\c#_basic\\c#_basic\\05_lambda\\Program.cs",
+              "RelativeToolTip": "05_lambda\\Program.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAcwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T08:39:05.883Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

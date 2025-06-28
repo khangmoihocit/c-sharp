@@ -1,0 +1,7 @@
+D:\C#\BaiTap\Bai_4_2\obj\Debug\net8.0-windows\Bai_4_2.Form1.resources
+D:\C#\BaiTap\Bai_4_2\obj\Debug\net8.0-windows\Bai_4_2.csproj.GenerateResource.cache
+D:\C#\BaiTap\Bai_4_2\obj\Debug\net8.0-windows\Bai_4_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\BaiTap\Bai_4_2\obj\Debug\net8.0-windows\Bai_4_2.AssemblyInfoInputs.cache
+D:\C#\BaiTap\Bai_4_2\obj\Debug\net8.0-windows\Bai_4_2.AssemblyInfo.cs
+D:\C#\BaiTap\Bai_4_2\obj\Debug\net8.0-windows\Bai_4_2.csproj.CoreCompileInputs.cache
+D:\C#\BaiTap\Bai_4_2\obj\Debug\net8.0-windows\Bai_4_2.sourcelink.json

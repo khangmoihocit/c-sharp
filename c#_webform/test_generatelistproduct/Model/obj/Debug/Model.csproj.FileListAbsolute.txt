@@ -1,0 +1,6 @@
+D:\C#\c#_webform\test_generatelistproduct\Model\bin\Debug\Model.dll
+D:\C#\c#_webform\test_generatelistproduct\Model\bin\Debug\Model.pdb
+D:\C#\c#_webform\test_generatelistproduct\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+D:\C#\c#_webform\test_generatelistproduct\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\C#\c#_webform\test_generatelistproduct\Model\obj\Debug\Model.dll
+D:\C#\c#_webform\test_generatelistproduct\Model\obj\Debug\Model.pdb

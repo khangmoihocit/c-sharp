@@ -1,0 +1,15 @@
+D:\C#\c#_basic\c#_basic\01_generic\bin\Debug\net8.0\01_generic.exe
+D:\C#\c#_basic\c#_basic\01_generic\bin\Debug\net8.0\01_generic.deps.json
+D:\C#\c#_basic\c#_basic\01_generic\bin\Debug\net8.0\01_generic.runtimeconfig.json
+D:\C#\c#_basic\c#_basic\01_generic\bin\Debug\net8.0\01_generic.dll
+D:\C#\c#_basic\c#_basic\01_generic\bin\Debug\net8.0\01_generic.pdb
+D:\C#\c#_basic\c#_basic\01_generic\obj\Debug\net8.0\01_generic.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\c#_basic\c#_basic\01_generic\obj\Debug\net8.0\01_generic.AssemblyInfoInputs.cache
+D:\C#\c#_basic\c#_basic\01_generic\obj\Debug\net8.0\01_generic.AssemblyInfo.cs
+D:\C#\c#_basic\c#_basic\01_generic\obj\Debug\net8.0\01_generic.csproj.CoreCompileInputs.cache
+D:\C#\c#_basic\c#_basic\01_generic\obj\Debug\net8.0\01_generic.sourcelink.json
+D:\C#\c#_basic\c#_basic\01_generic\obj\Debug\net8.0\01_generic.dll
+D:\C#\c#_basic\c#_basic\01_generic\obj\Debug\net8.0\refint\01_generic.dll
+D:\C#\c#_basic\c#_basic\01_generic\obj\Debug\net8.0\01_generic.pdb
+D:\C#\c#_basic\c#_basic\01_generic\obj\Debug\net8.0\01_generic.genruntimeconfig.cache
+D:\C#\c#_basic\c#_basic\01_generic\obj\Debug\net8.0\ref\01_generic.dll

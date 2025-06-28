@@ -1,0 +1,15 @@
+D:\C#\c#_basic\c#_basic\03_virtual\bin\Debug\net8.0\03_virtual.exe
+D:\C#\c#_basic\c#_basic\03_virtual\bin\Debug\net8.0\03_virtual.deps.json
+D:\C#\c#_basic\c#_basic\03_virtual\bin\Debug\net8.0\03_virtual.runtimeconfig.json
+D:\C#\c#_basic\c#_basic\03_virtual\bin\Debug\net8.0\03_virtual.dll
+D:\C#\c#_basic\c#_basic\03_virtual\bin\Debug\net8.0\03_virtual.pdb
+D:\C#\c#_basic\c#_basic\03_virtual\obj\Debug\net8.0\03_virtual.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\c#_basic\c#_basic\03_virtual\obj\Debug\net8.0\03_virtual.AssemblyInfoInputs.cache
+D:\C#\c#_basic\c#_basic\03_virtual\obj\Debug\net8.0\03_virtual.AssemblyInfo.cs
+D:\C#\c#_basic\c#_basic\03_virtual\obj\Debug\net8.0\03_virtual.csproj.CoreCompileInputs.cache
+D:\C#\c#_basic\c#_basic\03_virtual\obj\Debug\net8.0\03_virtual.sourcelink.json
+D:\C#\c#_basic\c#_basic\03_virtual\obj\Debug\net8.0\03_virtual.dll
+D:\C#\c#_basic\c#_basic\03_virtual\obj\Debug\net8.0\refint\03_virtual.dll
+D:\C#\c#_basic\c#_basic\03_virtual\obj\Debug\net8.0\03_virtual.pdb
+D:\C#\c#_basic\c#_basic\03_virtual\obj\Debug\net8.0\03_virtual.genruntimeconfig.cache
+D:\C#\c#_basic\c#_basic\03_virtual\obj\Debug\net8.0\ref\03_virtual.dll

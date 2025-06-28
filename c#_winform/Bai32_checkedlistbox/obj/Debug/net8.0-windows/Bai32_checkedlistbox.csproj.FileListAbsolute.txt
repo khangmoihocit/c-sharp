@@ -1,0 +1,17 @@
+D:\C#\c#_winform\Bai32_checkedlistbox\bin\Debug\net8.0-windows\Bai32_checkedlistbox.exe
+D:\C#\c#_winform\Bai32_checkedlistbox\bin\Debug\net8.0-windows\Bai32_checkedlistbox.deps.json
+D:\C#\c#_winform\Bai32_checkedlistbox\bin\Debug\net8.0-windows\Bai32_checkedlistbox.runtimeconfig.json
+D:\C#\c#_winform\Bai32_checkedlistbox\bin\Debug\net8.0-windows\Bai32_checkedlistbox.dll
+D:\C#\c#_winform\Bai32_checkedlistbox\bin\Debug\net8.0-windows\Bai32_checkedlistbox.pdb
+D:\C#\c#_winform\Bai32_checkedlistbox\obj\Debug\net8.0-windows\Bai32_checkedlistbox.Form1.resources
+D:\C#\c#_winform\Bai32_checkedlistbox\obj\Debug\net8.0-windows\Bai32_checkedlistbox.csproj.GenerateResource.cache
+D:\C#\c#_winform\Bai32_checkedlistbox\obj\Debug\net8.0-windows\Bai32_checkedlistbox.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\c#_winform\Bai32_checkedlistbox\obj\Debug\net8.0-windows\Bai32_checkedlistbox.AssemblyInfoInputs.cache
+D:\C#\c#_winform\Bai32_checkedlistbox\obj\Debug\net8.0-windows\Bai32_checkedlistbox.AssemblyInfo.cs
+D:\C#\c#_winform\Bai32_checkedlistbox\obj\Debug\net8.0-windows\Bai32_checkedlistbox.csproj.CoreCompileInputs.cache
+D:\C#\c#_winform\Bai32_checkedlistbox\obj\Debug\net8.0-windows\Bai32_checkedlistbox.sourcelink.json
+D:\C#\c#_winform\Bai32_checkedlistbox\obj\Debug\net8.0-windows\Bai32_checkedlistbox.dll
+D:\C#\c#_winform\Bai32_checkedlistbox\obj\Debug\net8.0-windows\refint\Bai32_checkedlistbox.dll
+D:\C#\c#_winform\Bai32_checkedlistbox\obj\Debug\net8.0-windows\Bai32_checkedlistbox.pdb
+D:\C#\c#_winform\Bai32_checkedlistbox\obj\Debug\net8.0-windows\Bai32_checkedlistbox.genruntimeconfig.cache
+D:\C#\c#_winform\Bai32_checkedlistbox\obj\Debug\net8.0-windows\ref\Bai32_checkedlistbox.dll

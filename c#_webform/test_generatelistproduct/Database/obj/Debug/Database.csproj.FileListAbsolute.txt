@@ -1,0 +1,11 @@
+D:\C#\c#_webform\test_generatelistproduct\Database\bin\Debug\Database.dll
+D:\C#\c#_webform\test_generatelistproduct\Database\bin\Debug\Database.pdb
+D:\C#\c#_webform\test_generatelistproduct\Database\bin\Debug\Model.dll
+D:\C#\c#_webform\test_generatelistproduct\Database\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\C#\c#_webform\test_generatelistproduct\Database\bin\Debug\Model.pdb
+D:\C#\c#_webform\test_generatelistproduct\Database\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\C#\c#_webform\test_generatelistproduct\Database\obj\Debug\Database.csproj.AssemblyReference.cache
+D:\C#\c#_webform\test_generatelistproduct\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+D:\C#\c#_webform\test_generatelistproduct\Database\obj\Debug\Database.csproj.Up2Date
+D:\C#\c#_webform\test_generatelistproduct\Database\obj\Debug\Database.dll
+D:\C#\c#_webform\test_generatelistproduct\Database\obj\Debug\Database.pdb

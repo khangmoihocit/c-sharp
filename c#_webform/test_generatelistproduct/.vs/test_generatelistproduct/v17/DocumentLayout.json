@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\c#_webform\\test_generatelistproduct\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{122898D9-23B8-4B8E-AF53-A5407C7F0ABF}|test_generatelistproduct\\test_generatelistproduct.csproj|d:\\c#\\c#_webform\\test_generatelistproduct\\test_generatelistproduct\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{122898D9-23B8-4B8E-AF53-A5407C7F0ABF}|test_generatelistproduct\\test_generatelistproduct.csproj|solutionrelative:test_generatelistproduct\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{122898D9-23B8-4B8E-AF53-A5407C7F0ABF}|test_generatelistproduct\\test_generatelistproduct.csproj|d:\\c#\\c#_webform\\test_generatelistproduct\\test_generatelistproduct\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{122898D9-23B8-4B8E-AF53-A5407C7F0ABF}|test_generatelistproduct\\test_generatelistproduct.csproj|solutionrelative:test_generatelistproduct\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A43AFF-EBD6-44C7-8BBB-A0C38533D603}|Model\\Model.csproj|d:\\c#\\c#_webform\\test_generatelistproduct\\model\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A43AFF-EBD6-44C7-8BBB-A0C38533D603}|Model\\Model.csproj|solutionrelative:model\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303F992F-4D3E-4CBB-8C36-9EBC72C3A0FF}|Database\\Database.csproj|d:\\c#\\c#_webform\\test_generatelistproduct\\database\\khachhangdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303F992F-4D3E-4CBB-8C36-9EBC72C3A0FF}|Database\\Database.csproj|solutionrelative:database\\khachhangdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{122898D9-23B8-4B8E-AF53-A5407C7F0ABF}|test_generatelistproduct\\test_generatelistproduct.csproj|d:\\c#\\c#_webform\\test_generatelistproduct\\test_generatelistproduct\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{122898D9-23B8-4B8E-AF53-A5407C7F0ABF}|test_generatelistproduct\\test_generatelistproduct.csproj|solutionrelative:test_generatelistproduct\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303F992F-4D3E-4CBB-8C36-9EBC72C3A0FF}|Database\\Database.csproj|d:\\c#\\c#_webform\\test_generatelistproduct\\database\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303F992F-4D3E-4CBB-8C36-9EBC72C3A0FF}|Database\\Database.csproj|solutionrelative:database\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 168,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.aspx.cs",
+              "DocumentMoniker": "D:\\C#\\c#_webform\\test_generatelistproduct\\test_generatelistproduct\\Home.aspx.cs",
+              "RelativeDocumentMoniker": "test_generatelistproduct\\Home.aspx.cs",
+              "ToolTip": "D:\\C#\\c#_webform\\test_generatelistproduct\\test_generatelistproduct\\Home.aspx.cs",
+              "RelativeToolTip": "test_generatelistproduct\\Home.aspx.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T09:52:14.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "D:\\C#\\c#_webform\\test_generatelistproduct\\test_generatelistproduct\\Home.aspx",
+              "RelativeDocumentMoniker": "test_generatelistproduct\\Home.aspx",
+              "ToolTip": "D:\\C#\\c#_webform\\test_generatelistproduct\\test_generatelistproduct\\Home.aspx",
+              "RelativeToolTip": "test_generatelistproduct\\Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-28T09:48:43.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "D:\\C#\\c#_webform\\test_generatelistproduct\\Database\\Connection.cs",
+              "RelativeDocumentMoniker": "Database\\Connection.cs",
+              "ToolTip": "D:\\C#\\c#_webform\\test_generatelistproduct\\Database\\Connection.cs",
+              "RelativeToolTip": "Database\\Connection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T09:29:24.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "D:\\C#\\c#_webform\\test_generatelistproduct\\Model\\KhachHang.cs",
+              "RelativeDocumentMoniker": "Model\\KhachHang.cs",
+              "ToolTip": "D:\\C#\\c#_webform\\test_generatelistproduct\\Model\\KhachHang.cs",
+              "RelativeToolTip": "Model\\KhachHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T09:26:47.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KhachHangDAO.cs",
+              "DocumentMoniker": "D:\\C#\\c#_webform\\test_generatelistproduct\\Database\\KhachHangDAO.cs",
+              "RelativeDocumentMoniker": "Database\\KhachHangDAO.cs",
+              "ToolTip": "D:\\C#\\c#_webform\\test_generatelistproduct\\Database\\KhachHangDAO.cs",
+              "RelativeToolTip": "Database\\KhachHangDAO.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wBAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T09:23:16.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\C#\\c#_webform\\test_generatelistproduct\\test_generatelistproduct\\Web.config",
+              "RelativeDocumentMoniker": "test_generatelistproduct\\Web.config",
+              "ToolTip": "D:\\C#\\c#_webform\\test_generatelistproduct\\test_generatelistproduct\\Web.config",
+              "RelativeToolTip": "test_generatelistproduct\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxIAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-28T09:18:33.94Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

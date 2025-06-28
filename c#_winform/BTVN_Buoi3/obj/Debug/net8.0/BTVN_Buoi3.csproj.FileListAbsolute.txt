@@ -1,0 +1,16 @@
+D:\C#\c#_winform\BTVN_Buoi3\bin\Debug\net8.0\BTVN_Buoi3.exe
+D:\C#\c#_winform\BTVN_Buoi3\bin\Debug\net8.0\BTVN_Buoi3.dll.config
+D:\C#\c#_winform\BTVN_Buoi3\bin\Debug\net8.0\BTVN_Buoi3.deps.json
+D:\C#\c#_winform\BTVN_Buoi3\bin\Debug\net8.0\BTVN_Buoi3.runtimeconfig.json
+D:\C#\c#_winform\BTVN_Buoi3\bin\Debug\net8.0\BTVN_Buoi3.dll
+D:\C#\c#_winform\BTVN_Buoi3\bin\Debug\net8.0\BTVN_Buoi3.pdb
+D:\C#\c#_winform\BTVN_Buoi3\obj\Debug\net8.0\BTVN_Buoi3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\c#_winform\BTVN_Buoi3\obj\Debug\net8.0\BTVN_Buoi3.AssemblyInfoInputs.cache
+D:\C#\c#_winform\BTVN_Buoi3\obj\Debug\net8.0\BTVN_Buoi3.AssemblyInfo.cs
+D:\C#\c#_winform\BTVN_Buoi3\obj\Debug\net8.0\BTVN_Buoi3.csproj.CoreCompileInputs.cache
+D:\C#\c#_winform\BTVN_Buoi3\obj\Debug\net8.0\BTVN_Buoi3.sourcelink.json
+D:\C#\c#_winform\BTVN_Buoi3\obj\Debug\net8.0\BTVN_Buoi3.dll
+D:\C#\c#_winform\BTVN_Buoi3\obj\Debug\net8.0\refint\BTVN_Buoi3.dll
+D:\C#\c#_winform\BTVN_Buoi3\obj\Debug\net8.0\BTVN_Buoi3.pdb
+D:\C#\c#_winform\BTVN_Buoi3\obj\Debug\net8.0\BTVN_Buoi3.genruntimeconfig.cache
+D:\C#\c#_winform\BTVN_Buoi3\obj\Debug\net8.0\ref\BTVN_Buoi3.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Bai27_checkbox_rad/1.0.0": {
+        "runtime": {
+          "Bai27_checkbox_rad.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bai27_checkbox_rad/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
