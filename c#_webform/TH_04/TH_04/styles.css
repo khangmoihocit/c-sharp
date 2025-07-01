@@ -18,7 +18,7 @@ body {
     padding: 30px;
     border-radius: 15px;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
-    /* width: 40%; */
+    min-width: 65%;
 }
 
 h2 {
@@ -28,13 +28,18 @@ h2 {
 
 /* Section One */
 .section-one {
-    width: 600px;
 }
 
-    .section-one .inner-group {
-        position: relative;
-        margin-top: 20px;
-    }
+.error-1{
+    font-size: 20px;
+    color: red;
+    font-weight: 600;
+}
+
+.section-one .inner-group {
+    position: relative;
+    margin-top: 20px;
+}
 
         .section-one .inner-group label {
             display: block;

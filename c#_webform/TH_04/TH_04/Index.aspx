@@ -9,11 +9,13 @@
 </head>
 <body>
     <div class="container">
-
-        <!-- Section One -->
         <form id="formRegister" runat="server">
+
+            <!-- Section One -->
             <div class="section-one">
                 <h2>BIỂU MẪU ĐĂNG KÝ</h2>
+
+                <asp:Label ID="messageError" runat="server" Text="Label" CssClass="error-1"></asp:Label>
 
                 <div class="inner-group">
                     <asp:Label runat="server" AssociatedControlID="txtFullName" Text="Họ và tên"></asp:Label>
@@ -64,61 +66,68 @@
                         <asp:ListItem Value="5">Lập trình thiết bị di động</asp:ListItem>
                     </asp:DropDownList>
                     <asp:Label Visible="false" ID="lblCourse" runat="server" Text="Label" CssClass="messageError"></asp:Label>
-
                 </div>
 
                 <div class="inner-buttons">
-                    <asp:Button ID="btnReset" runat="server" Text="Nhập lại" CssClass="btn btn-reset" OnClientClick="this.form.reset(); return false;" />
+                    <asp:Button ID="btnReset" runat="server" Text="Nhập lại" CssClass="btn btn-reset" OnClientClick="this.form.reset(); return false;" OnClick="btnReset_Click" />
                     <asp:Button ID="btnSubmit" runat="server" Text="Đăng ký" CssClass="btn btn-submit" OnClick="btnSubmit_Click" />
                 </div>
 
             </div>
-        </form>
-        <!-- End Section One -->
+            <!-- End Section One -->
 
-        <!-- Section Two -->
-        <div class="section-two">
-            <h2>ĐÃ ĐĂNG KÝ</h2>
+            <!-- Section Two -->
+            <div class="section-two">
+                <h2>ĐÃ ĐĂNG KÝ</h2>
 
-            <asp:Repeater ID="rptStudent" runat="server">
-                <HeaderTemplate>
-                    <table>
-                        <thead>
+                <table>
+                    <asp:Repeater ID="rptStudent" runat="server">
+                        <HeaderTemplate>
+                            <thead>
+                                <tr>
+                                    <th>STT</th>
+                                    <th>Họ tên</th>
+                                    <th>Email</th>
+                                    <th>Điện thoại</th>
+                                    <th>Ngày sinh</th>
+                                    <th>Giới tính</th>
+                                    <th>Khóa học</th>
+                                    <th>Hủy đăng ký</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                        </HeaderTemplate>
+
+                        <ItemTemplate>
                             <tr>
-                                <th>STT</th>
-                                <th>Họ tên</th>
-                                <th>Email</th>
-                                <th>Điện thoại</th>
-                                <th>Ngày sinh</th>
-                                <th>Giới tính</th>
-                                <th>Khóa học</th>
-                                <th>Hủy đăng ký</th>
+                                <td><%# Container.ItemIndex + 1 %></td>
+                                <td><%# Eval("FullName") %></td>
+                                <td><%# Eval("Email") %></td>
+                                <td><%# Eval("PhoneNumber") %></td>
+                                <td><%# Eval("DateOfBirth", "{0:dd/MM/yyyy}") %></td>
+                                <td><%# Eval("Gender") %></td>
+                                <td><%# Eval("Course") %></td>
+                                <td>
+                                    <asp:HyperLink ID="hlDelete" runat="server"
+                                        Text="Hủy đăng ký"
+                                        CssClass="cancel"
+                                        NavigateUrl='<%# String.Format("~/Index.aspx?id={0}", Eval("Id")) %>'>
+                                    </asp:HyperLink>
+                                </td>
                             </tr>
-                        </thead>
-                    </table>
-                </HeaderTemplate>
-                <ItemTemplate>
-                    <tr>
+                        </ItemTemplate>
 
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
+                        <FooterTemplate>
+                            </tbody>
+                        </FooterTemplate>
+                    </asp:Repeater>
+                </table>
+            </div>
+            <!-- End Section Two -->
 
-                    </tr>
-                </ItemTemplate>
-            </asp:Repeater>
-
-
-
-        </div>
-        <!-- End Section Two -->
-
+        </form>
     </div>
+
 </body>
 
 
