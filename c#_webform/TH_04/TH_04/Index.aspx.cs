@@ -12,28 +12,72 @@ namespace Test
 {
     public partial class Index : System.Web.UI.Page
     {
+        private List<Student> students;
+
         protected void Page_Load(object sender, EventArgs e)
         {
+            if (Session["StudentList"] != null)
+            {
+                students = (List<Student>)Session["StudentList"];
+            }
+            else
+            {
+                students = new List<Student>();
+            }
+            messageError.Text = "";
 
+            //hủy đăng ký
+            if (!IsPostBack)
+            {
+                if (Request.QueryString["id"] == null)
+                {
+                    Console.WriteLine("a");
+                }
+                else
+                {
+                    int id = int.Parse(Request.QueryString["id"]);
 
+                    students.RemoveAll(item => item.Id == id);
+
+                    Session["StudentList"] = students;
+                    Response.Redirect("~/Index.aspx"); 
+                }
+
+            }
+            rptStudent.DataSource = students;
+            rptStudent.DataBind();
         }
-
-        protected void btnSend_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private List<Student> students = new List<Student>();
 
         protected void btnSubmit_Click(object sender, EventArgs e)
         {
             if (isValidInput())
             {
-                students.Add(toStudent());
+                Student newStudent = toStudent();
+                bool check = true;
+
+                //kiểm tra trùng lặp đăng ký
+                students.ForEach(student =>
+                {
+                    if (student.FullName.Equals(newStudent.FullName) && student.Course.Contains(newStudent.Course))
+                    {
+                        check = false;
+                    }
+                });
+
+
+                if (check)
+                {
+                    students.Add(newStudent);
+                    Session["StudentList"] = students;
+                    messageError.Text = "";
+                }
+                else messageError.Text = "Lỗi! " + newStudent.FullName + " đã đăng ký khóa học " + newStudent.Course;
+
                 rptStudent.DataSource = students;
                 rptStudent.DataBind();
-            }
-        }
+
+            }//end if isvalid
+        }//end submit_click
 
         private Student toStudent()
         {
@@ -43,15 +87,18 @@ namespace Test
             student.PhoneNumber = txtPhoneNumber.Text;
             try
             {
-                student.DateOfBirth = DateTime.ParseExact(txtDateOfBirth.Text, "dd/MM/yyyy", null);
-            }catch(FormatException ex)
+                student.DateOfBirth = DateTime.ParseExact(txtDateOfBirth.Text, "yyyy-MM-dd", null);
+            }
+            catch (FormatException ex)
             {
-                Console.WriteLine(ex.Message);
+                messageError.Text = ex.Message;
             }
             student.Gender = rblGender.SelectedItem.Value;
             student.Course = ddlCourse.SelectedItem.Text;
             return student;
         }
+
+
 
         private bool isValidInput()
         {
@@ -64,7 +111,7 @@ namespace Test
             }
             else
             {
-                lblFullName.Visible=false;
+                lblFullName.Visible = false;
             }
 
             if (txtEmail.Text.Trim() == "" || !Regex.IsMatch(txtEmail.Text, @"^[0-9a-zA-Z]{1,}@[0-9a-zA-Z]{1,}\.[0-9a-zA-Z]{1,}$"))
@@ -75,10 +122,11 @@ namespace Test
             }
             else
             {
-                lblEmail.Visible=false;
+                lblEmail.Visible = false;
             }
 
-            if(txtPhoneNumber.Text.Trim() == "" || !Regex.IsMatch(txtPhoneNumber.Text, @"^[0-9]{1,10}$"))
+            if (txtPhoneNumber.Text.Trim() == "" || 
+                !Regex.IsMatch(txtPhoneNumber.Text, @"^[0-9]{1,10}$"))
             {
                 lblPhoneNumber.Text = "Số điện thoại không hợp lệ";
                 lblPhoneNumber.Visible = true;
@@ -86,11 +134,11 @@ namespace Test
             }
             else
             {
-                lblPhoneNumber.Visible=false;
+                lblPhoneNumber.Visible = false;
             }
 
 
-            if(txtDateOfBirth.Text == "")
+            if (txtDateOfBirth.Text == "")
             {
                 lblDateOfBirth.Text = "Ngày sinh không hợp lệ";
                 lblDateOfBirth.Visible = true;
@@ -98,11 +146,11 @@ namespace Test
             }
             else
             {
-                lblDateOfBirth.Visible=false;
+                lblDateOfBirth.Visible = false;
             }
 
 
-            if(rblGender.SelectedIndex == -1)
+            if (rblGender.SelectedIndex == -1)
             {
                 lblGender.Text = "Giới tính không được trống";
                 lblGender.Visible = true;
@@ -110,11 +158,11 @@ namespace Test
             }
             else
             {
-                lblGender.Visible=false;
+                lblGender.Visible = false;
             }
 
 
-            if(ddlCourse.SelectedIndex == 0)
+            if (ddlCourse.SelectedIndex <= 0)
             {
                 lblCourse.Text = "Khóa học không được rỗng";
                 lblCourse.Visible = true;
@@ -122,9 +170,24 @@ namespace Test
             }
             else
             {
-                lblCourse.Visible=false;
+                lblCourse.Visible = false;
             }
             return isValid;
         }//end isvalidinput
+
+        protected void btnSend_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void btnReset_Click(object sender, EventArgs e)
+        {
+            txtFullName.Text = "";
+            txtEmail.Text = "";
+            txtPhoneNumber.Text = "";
+            txtDateOfBirth.Text = "";
+            rblGender.SelectedIndex = -1;
+            ddlCourse.SelectedIndex = 0;
+        }
     }
 }
