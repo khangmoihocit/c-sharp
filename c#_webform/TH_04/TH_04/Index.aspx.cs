@@ -16,6 +16,13 @@ namespace Test
 
         protected void Page_Load(object sender, EventArgs e)
         {
+            // Kiểm tra đã đăng nhập chưa
+            if (Session["LoginUser"] == null)
+            {
+                Response.Redirect("~/Login.aspx");
+            }
+
+
             if (Session["StudentList"] != null)
             {
                 students = (List<Student>)Session["StudentList"];
@@ -26,9 +33,23 @@ namespace Test
             }
             messageError.Text = "";
 
-            //hủy đăng ký
             if (!IsPostBack)
             {
+                //1. Tự động điền họ tên từ Session
+                User loginUser = (User)Session["LoginUser"];
+                txtFullName.Text = loginUser.fullName;
+
+                // 2. Tự động điền Email và SĐT từ Cookie nếu có
+                if (Request.Cookies["email"] != null)
+                {
+                    txtEmail.Text = Request.Cookies["email"].Value;
+                }
+                if (Request.Cookies["phoneNumber"] != null)
+                {
+                    txtPhoneNumber.Text = Request.Cookies["phoneNumber"].Value;
+                }
+
+                //hủy đăng ký
                 if (Request.QueryString["id"] == null)
                 {
                     Console.WriteLine("a");
@@ -58,7 +79,7 @@ namespace Test
                 //kiểm tra trùng lặp đăng ký
                 students.ForEach(student =>
                 {
-                    if (student.FullName.Equals(newStudent.FullName) && student.Course.Contains(newStudent.Course))
+                    if (student.FullName.Equals(newStudent.FullName) && student.Course.Equals(newStudent.Course))
                     {
                         check = false;
                     }
@@ -70,8 +91,23 @@ namespace Test
                     students.Add(newStudent);
                     Session["StudentList"] = students;
                     messageError.Text = "";
+
+                    //lưu cookie 
+                    if (Request.Cookies["email"] == null)
+                    {
+                        // Lưu Email
+                        Response.Cookies["email"].Value = newStudent.Email;
+                        Response.Cookies["email"].Expires = DateTime.Now.AddDays(1);
+
+                        // Lưu SĐT
+                        Response.Cookies["phoneNumber"].Value = newStudent.PhoneNumber;
+                        Response.Cookies["phoneNumber"].Expires = DateTime.Now.AddDays(1);
+                    }
                 }
-                else messageError.Text = "Lỗi! " + newStudent.FullName + " đã đăng ký khóa học " + newStudent.Course;
+                else 
+                {
+                    messageError.Text = "Lỗi! " + newStudent.FullName + " đã đăng ký khóa học " + newStudent.Course;
+                }
 
                 rptStudent.DataSource = students;
                 rptStudent.DataBind();
@@ -114,7 +150,7 @@ namespace Test
                 lblFullName.Visible = false;
             }
 
-            if (txtEmail.Text.Trim() == "" || !Regex.IsMatch(txtEmail.Text, @"^[0-9a-zA-Z]{1,}@[0-9a-zA-Z]{1,}\.[0-9a-zA-Z]{1,}$"))
+            if (txtEmail.Text.Trim() == "" || !Regex.IsMatch(txtEmail.Text, @"^[0-9a-zA-Z]{1,}@[0-9a-zA-Z]{1,}.[0-9a-zA-Z]{1,}$"))
             {
                 lblEmail.Text = "Email không hợp lệ";
                 lblEmail.Visible = true;

@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "D:\\C#\\study\\c#_webform\\Test\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{96452937-FA02-4638-854D-495BCE59D29B}|Test\\Test.csproj|d:\\c#\\study\\c#_webform\\test\\test\\courselist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{96452937-FA02-4638-854D-495BCE59D29B}|Test\\Test.csproj|d:\\c#\\study\\c#_webform\\test\\test\\dangnhap.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{96452937-FA02-4638-854D-495BCE59D29B}|Test\\Test.csproj|solutionrelative:test\\dangnhap.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96452937-FA02-4638-854D-495BCE59D29B}|Test\\Test.csproj|d:\\c#\\study\\c#_webform\\test\\test\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96452937-FA02-4638-854D-495BCE59D29B}|Test\\Test.csproj|solutionrelative:test\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96452937-FA02-4638-854D-495BCE59D29B}|Test\\Test.csproj|D:\\C#\\study\\c#_webform\\Test\\test\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{96452937-FA02-4638-854D-495BCE59D29B}|Test\\Test.csproj|solutionrelative:test\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96452937-FA02-4638-854D-495BCE59D29B}|Test\\Test.csproj|d:\\c#\\study\\c#_webform\\test\\test\\dangnhap.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96452937-FA02-4638-854D-495BCE59D29B}|Test\\Test.csproj|solutionrelative:test\\dangnhap.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96452937-FA02-4638-854D-495BCE59D29B}|Test\\Test.csproj|D:\\C#\\study\\c#_webform\\Test\\test\\courselist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{96452937-FA02-4638-854D-495BCE59D29B}|Test\\Test.csproj|solutionrelative:test\\courselist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96452937-FA02-4638-854D-495BCE59D29B}|Test\\Test.csproj|D:\\C#\\study\\c#_webform\\Test\\test\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{96452937-FA02-4638-854D-495BCE59D29B}|Test\\Test.csproj|d:\\c#\\study\\c#_webform\\test\\test\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{96452937-FA02-4638-854D-495BCE59D29B}|Test\\Test.csproj|solutionrelative:test\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96452937-FA02-4638-854D-495BCE59D29B}|Test\\Test.csproj|d:\\c#\\study\\c#_webform\\test\\test\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{96452937-FA02-4638-854D-495BCE59D29B}|Test\\Test.csproj|solutionrelative:test\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96452937-FA02-4638-854D-495BCE59D29B}|Test\\Test.csproj|d:\\c#\\study\\c#_webform\\test\\test\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{96452937-FA02-4638-854D-495BCE59D29B}|Test\\Test.csproj|solutionrelative:test\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96452937-FA02-4638-854D-495BCE59D29B}|Test\\Test.csproj|d:\\c#\\study\\c#_webform\\test\\test\\loi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{96452937-FA02-4638-854D-495BCE59D29B}|Test\\Test.csproj|solutionrelative:test\\loi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{96452937-FA02-4638-854D-495BCE59D29B}|Test\\Test.csproj|D:\\C#\\study\\c#_webform\\Test\\test\\courselist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 168,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -71,6 +99,97 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "home.aspx.cs",
+              "DocumentMoniker": "D:\\C#\\study\\c#_webform\\Test\\Test\\home.aspx.cs",
+              "RelativeDocumentMoniker": "Test\\home.aspx.cs",
+              "ToolTip": "D:\\C#\\study\\c#_webform\\Test\\Test\\home.aspx.cs",
+              "RelativeToolTip": "Test\\home.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T09:08:51.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dangnhap.aspx.cs",
+              "DocumentMoniker": "D:\\C#\\study\\c#_webform\\Test\\Test\\dangnhap.aspx.cs",
+              "RelativeDocumentMoniker": "Test\\dangnhap.aspx.cs",
+              "ToolTip": "D:\\C#\\study\\c#_webform\\Test\\Test\\dangnhap.aspx.cs",
+              "RelativeToolTip": "Test\\dangnhap.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T09:06:42.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\C#\\study\\c#_webform\\Test\\Test\\packages.config",
+              "RelativeDocumentMoniker": "Test\\packages.config",
+              "ToolTip": "D:\\C#\\study\\c#_webform\\Test\\Test\\packages.config",
+              "RelativeToolTip": "Test\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-07T09:06:26.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\C#\\study\\c#_webform\\Test\\Test\\Web.config",
+              "RelativeDocumentMoniker": "Test\\Web.config",
+              "ToolTip": "D:\\C#\\study\\c#_webform\\Test\\Test\\Web.config",
+              "RelativeToolTip": "Test\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-07T09:06:22.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "loi.aspx",
+              "DocumentMoniker": "D:\\C#\\study\\c#_webform\\Test\\Test\\loi.aspx",
+              "RelativeDocumentMoniker": "Test\\loi.aspx",
+              "ToolTip": "D:\\C#\\study\\c#_webform\\Test\\Test\\loi.aspx",
+              "RelativeToolTip": "Test\\loi.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-07T09:06:19.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dangnhap.aspx",
+              "DocumentMoniker": "D:\\C#\\study\\c#_webform\\Test\\Test\\dangnhap.aspx",
+              "RelativeDocumentMoniker": "Test\\dangnhap.aspx",
+              "ToolTip": "D:\\C#\\study\\c#_webform\\Test\\Test\\dangnhap.aspx",
+              "RelativeToolTip": "Test\\dangnhap.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-07T09:06:08.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "home.aspx",
+              "DocumentMoniker": "D:\\C#\\study\\c#_webform\\Test\\Test\\home.aspx",
+              "RelativeDocumentMoniker": "Test\\home.aspx",
+              "ToolTip": "D:\\C#\\study\\c#_webform\\Test\\Test\\home.aspx",
+              "RelativeToolTip": "Test\\home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-01T03:46:34.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Index.aspx",
               "DocumentMoniker": "D:\\C#\\study\\c#_webform\\Test\\Test\\Index.aspx",
               "RelativeDocumentMoniker": "Test\\Index.aspx",
@@ -83,7 +202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "Index.aspx.designer.cs",
               "DocumentMoniker": "D:\\C#\\study\\c#_webform\\Test\\Test\\Index.aspx.designer.cs",
               "RelativeDocumentMoniker": "Test\\Index.aspx.designer.cs",
@@ -95,7 +214,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "CourseList.aspx",
               "DocumentMoniker": "D:\\C#\\study\\c#_webform\\Test\\Test\\CourseList.aspx",
               "RelativeDocumentMoniker": "Test\\CourseList.aspx",
@@ -108,7 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "CourseList.aspx.cs",
               "DocumentMoniker": "D:\\C#\\study\\c#_webform\\Test\\Test\\CourseList.aspx.cs",
               "RelativeDocumentMoniker": "Test\\CourseList.aspx.cs",
@@ -120,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "Index.aspx.cs",
               "DocumentMoniker": "D:\\C#\\study\\c#_webform\\Test\\Test\\Index.aspx.cs",
               "RelativeDocumentMoniker": "Test\\Index.aspx.cs",

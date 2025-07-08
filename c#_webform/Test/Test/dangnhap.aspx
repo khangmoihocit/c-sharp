@@ -8,6 +8,7 @@
 </head>
 <body>
     <form id="form1" runat="server" method="POST">
+        <asp:FileUpload ID="FileUpload1" runat="server" />
         <div>
             <label>ten dang nhap</label>
             <input type="text" name="tendangnhap" id="tendangnhap" />
