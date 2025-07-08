@@ -172,3 +172,25 @@ tbody tr:nth-child(even) {
 }
 /* End Section Two */
 
+
+.login-container {
+    width: 750px;
+    display: flex;
+    justify-content: center;
+
+}
+
+    .login-container .inner-group {
+        padding: 20px;
+        display: flex;
+        justify-content: space-between;
+    }
+
+        .login-container .inner-group input {
+            padding: 2px;
+        }
+
+    .login-container .inner-buttons {
+        display: flex;
+        justify-content: center;
+    }

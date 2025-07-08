@@ -14,7 +14,7 @@ namespace Test
             //Response.Write("xin chao: " + Session["tendangnhap"]);
             //Response.Write("xin chao: " + Request.Cookies["tendangnhap"].Value);
           
-                Application["demluot"] = (int)Application["demluot"] + Session.Count;
+                Application["demluot"] = (int)Application["demluot"];
                 Response.Write("Da xem: " + Application["demluot"]);
                 //kiem tra du lieuj dau vao, tai khoan vaf mk khac rong, thi kiem tra tk laf admin, mk la 123456
                 //neu đúng, gán dữ liệu tên đăng nhập vào sessison
